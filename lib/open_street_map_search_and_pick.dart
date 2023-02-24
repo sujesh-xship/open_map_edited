@@ -32,7 +32,7 @@ class OpenStreetMapSearchAndPick extends StatefulWidget {
     this.buttonColor = Colors.blue,
     this.locationPinIconColor = Colors.blue,
     this.buttonTextColor = Colors.white,
-    this.buttonText = 'Set Current Location',
+    this.buttonText = 'Set Event Location',
     this.hintText = 'Search Location',
   }) : super(key: key);
 
